@@ -23,6 +23,7 @@
 - [x] ihatepython
 - [x] nostringsonme
 - [x] sourcecodeshipping   
+- [x] Far From The Weakest Shell
 ## WebEx   
 - [x] Yummy Vegetables
 - [ ] Leaky Logs
